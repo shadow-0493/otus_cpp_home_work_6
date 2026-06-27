@@ -29,7 +29,7 @@ void print_all_elements(Matrix<T, default_value> &matrix)
 
 int main()
 {
-    Matrix<int, -1> matrix;
+    Matrix<int, 0> matrix;
 
     for (int i = 0; i <= 9; ++i)
     {
